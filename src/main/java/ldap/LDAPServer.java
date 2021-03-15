@@ -17,7 +17,6 @@ import com.unboundid.ldap.sdk.LDAPException;
 import com.unboundid.ldap.sdk.LDAPResult;
 import com.unboundid.ldap.sdk.ResultCode;
 
-
 class LdapServer {
 
     private static final String LDAP_BASE = "dc=example,dc=com";
